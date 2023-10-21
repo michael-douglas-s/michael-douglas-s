@@ -1,5 +1,5 @@
 <h1 align="center">  Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
-<h3 align="center" >Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖 </h3>
+<p align="left" >Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖 </p>
 <hr />
 <div>
     <h2>Certificações</h2>
@@ -15,6 +15,7 @@
 </div>
     
 <div style="display: inline_block"><br>
+  <p> <b>Linguagens</b></p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,3 +30,4 @@
  <img height="180" width="200" src="https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-logotipo-da-programacao-de-computador.png">
   <hr>
  </div>
+ 
