@@ -18,7 +18,7 @@
   - Drones 🤖
   - Tocar Guitarra | Violao 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
-  - Ler livros 📚
+  - Ler 📚
 
    
 <div>
