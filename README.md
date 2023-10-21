@@ -1,6 +1,6 @@
 <h1 align="center">  Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
 <h4 align="left" >Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖 </h4>
-<hr />
+<hr/>
 <div>
     <h2>Certificações</h2>
   <ul>
@@ -8,6 +8,19 @@
     <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Em andamento 📚</li>
     <li>Curso Montar PC - TecnoArt ->(Status) Concluido ✔</li>
   </ul>
+  <hr/>
+    <h2> Meus interesses pessoais:</h2>
+
+- 😎 Meus hobbies são:
+  
+  - Jogar  🎮
+  - Viajar ✈️
+  - Drones 🤖
+  - Tocar Guitarra | Violao 🎸
+  - Academia ( Musculação | Calistenia ) 🏋️
+  - Ler livros 📚
+
+   
 <div>
    <a href="https://github.com/michael-douglas-s">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael-douglas-s&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
