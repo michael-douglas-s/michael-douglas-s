@@ -16,7 +16,7 @@
   - Jogar  🎮
   - Viajar ✈️
   - Drones 🤖
-  - Tocar Guitarra | Violao 🎸
+  - Tocar Guitarra | Violão 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
   - Ler 📚
 
