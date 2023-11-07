@@ -14,12 +14,11 @@
 - 😎 Meus hobbies são:
   
   - Jogar  🎮
-  - Viajar ✈️
   - Drones 🤖
+  - Viajar ✈️
   - Tocar Guitarra | Violão 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
   - Ler 📚
-
    
 <div>
    <a href="https://github.com/michael-douglas-s">
