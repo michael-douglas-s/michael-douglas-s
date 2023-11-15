@@ -16,11 +16,12 @@
   
   - Jogar  🎮
   - Drones 🤖
+  - Estudo Específico em Gráficos e Hardware
   - Viajar ✈️
   - Tocar Guitarra | Violão 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
   - Ler 📚
-    <br> <br> <br> <br>
+    <br> <br> 
 <div>
    <a href="https://github.com/michael-douglas-s">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael-douglas-s&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
