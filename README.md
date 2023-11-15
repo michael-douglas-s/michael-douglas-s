@@ -10,7 +10,7 @@
   </ul>
   <hr/>
     <h2> Meus interesses pessoais:</h2>
-    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 - 😎 Meus hobbies são:
   
@@ -20,7 +20,7 @@
   - Tocar Guitarra | Violão 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
   - Ler 📚
-   
+    <br> <br> <br>
 <div>
    <a href="https://github.com/michael-douglas-s">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael-douglas-s&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
