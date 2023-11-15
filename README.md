@@ -16,7 +16,7 @@
   
   - Jogar  🎮
   - Drones 🤖
-  - Estudo Específico em Gráficos e Hardware
+  - Estudo Específico em Gráficos e Hardware 🖥️
   - Viajar ✈️
   - Tocar Guitarra | Violão 🎸
   - Academia ( Musculação | Calistenia ) 🏋️
