@@ -1,5 +1,5 @@
-<h1>  Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
-<p> Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖</p>
+<h1>Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
+<p>Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖</p>
 <hr/>
 <div>
     <h2>Certificações</h2>
