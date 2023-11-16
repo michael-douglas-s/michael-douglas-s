@@ -1,4 +1,4 @@
-<h1>Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
+<h1 align='center'>Olá, pessoal! Eu sou o Michael Douglas. Bora dar uma espiadinha no meu cantinho aqui no GitHub?🤖</h1>
 <p>Apaixonado por tecnologia, montagem de computadores e games, estou aprofundando meus conhecimentos na área de desenvolvimento Front-End.🤖</p>
 <hr/>
 <div>
